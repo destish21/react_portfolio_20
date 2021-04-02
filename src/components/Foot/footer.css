@@ -1,0 +1,26 @@
+.footer {
+    background-color: #333;
+    /* background: #b8b8b8; */
+    color: #efeee7;
+    position: relative; 
+    height: 4.22rem; 
+    padding:20px 30px; 
+    margin-bottom:0px;
+    width: 115%; 
+   }
+
+.footer p{
+       text-align: center;
+       padding-bottom:20px;
+       color: white;
+       font-size: 20px;
+   }
+   @media screen  and (max-width:425px){
+    p {
+        font-size: 18px;
+        font-weight: 800;
+    }
+     .footer{
+            width: 121%; 
+        }
+   }

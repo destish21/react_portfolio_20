@@ -1,0 +1,170 @@
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.bg-dark {
+    background-color: #343a40!important;
+}
+
+
+
+ body {
+    margin: 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: rgba(204, 204, 204, 0.726);
+    background: url('../../assets/images/BlueNile.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh; 
+}
+
+ .container-body{
+    width: 80%;
+    margin: 30px;
+    margin-bottom: 100px;
+   }
+
+ #container{
+    padding-top: 0px, 20px;
+    margin: 0, 0, 0, 20px;
+}
+
+ #form-cont {
+    padding: 20px;
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    margin-right: 20px;
+    background-color: white;
+    max-width: 450px;
+    width: 1600%;
+    background-color: #F5DEB3;
+}
+
+ .form-control {
+     background-color: #fff;
+    text-align: left;
+    font-size: 10px;
+    padding: 20px;
+    line-height: auto;
+    font-weight: bold;
+    width: 80%;
+} 
+
+ .personal {
+    width: 100%;
+    margin:0 auto;
+    padding: 20px;
+    line-height: 1.2;
+}
+
+ .personal a {
+    font-size: 25px;
+}
+
+ #mydivheader {
+    padding: 10px 0;
+    margin: 0%;
+    color: green;
+}
+
+ p {
+    padding: 0;
+    color: green;
+    font-size: 30px;
+    margin-left:10%;
+}
+ #mydivheader p {
+    font-size: 40px;
+}
+
+ h1 {
+    color:black;
+    font-family: serif;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px 0;
+    margin: 0;
+    margin-bottom:20px;
+    margin-top:20px;
+    margin-left: 5%;
+    width: 20%;
+}
+
+ h2 {
+    color: green;
+    font-family: serif;
+    padding: 10px;
+    font-size:28px;
+}
+
+ h3 {
+    padding: 0;
+    color: green;
+    font-size: 30px;
+    margin-left:10%;
+}
+ .btn-primary {
+    font-size: 20px;
+    color: #fff;
+    background-color:lightseagreen ;
+    border-color:lightseagreen;
+    width: 10rem;
+}
+
+ a:hover.btn-primary {
+    color: blue;
+}
+
+ /* footer {
+     background-color: #333;
+     color: #efeee7;
+     position: relative; 
+     height: 4.22rem; 
+     padding:0 30px; 
+     bottom:0px;
+     width: 100%; 
+    }
+
+ footer p{
+        text-align: center;
+        padding-bottom:20px;
+        color: white;
+        font-size: 20px;
+    } */
+
+ @media screen  and (max-width:425px) {
+    .navbar{
+        width: 105vw;
+    }
+
+    #form-cont  {
+    width: 112%;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    margin-right:2px;
+ } 
+
+  #mydivheader p {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+ .personal a {
+    font-size: 18px;
+    font-weight: 800; 
+}
+  p, h2, h3 {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+ /* footer{
+        width: 105%; 
+    } */
+}
+

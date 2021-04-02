@@ -1,0 +1,90 @@
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: rgba(204, 204, 204, 0.726);
+    background: url('../../assets/images/BlueNile.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh; 
+}
+
+#container{
+    padding-top: 0px, 20px;
+    margin: 0;
+}
+
+.Me {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+    max-width: 900px;
+    width: 109%;
+
+    background-color: #F5DEB3;
+
+}
+
+h1 {
+    color:black;
+    font-family: serif;
+    font-size: 28px;
+    padding: 10px 0;
+    margin: 0;
+    margin-bottom:20px;
+    margin-top: 20px;
+    margin-left: 5%;
+    width: 20%;
+}
+
+h2 {
+    color: lightseagreen;
+    font-family: serif;
+    padding: 0px;
+    margin: 0;
+    font-size: 40px;
+}
+
+img {
+    float: left;
+    margin: 10px;
+    max-width: 100%;
+}
+
+.col-md-6  {
+    float: left;
+   
+}
+.btn {
+    margin: 14px;
+}
+
+ p {
+color: #ffff;
+margin-top:0;
+display: column;
+flex-direction: row;
+font-size: 20px;
+}
+
+@media screen and (max-width:425px){
+    .Me {
+        display: block;
+        flex-direction: column;
+        padding: 20px;
+        margin: 15px 1px 15px 5px;
+        width: 118%;
+    }
+    
+    .btn {
+        margin: 0;
+    }
+}
