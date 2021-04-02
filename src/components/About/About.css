@@ -28,21 +28,8 @@ body {
     margin-right: 10px;
     max-width: 900px;
     width: 109%;
-
     background-color: #F5DEB3;
 
-}
-
-h1 {
-    color:black;
-    font-family: serif;
-    font-size: 28px;
-    padding: 10px 0;
-    margin: 0;
-    margin-bottom:20px;
-    margin-top: 20px;
-    margin-left: 5%;
-    width: 20%;
 }
 
 h2 {
@@ -52,7 +39,7 @@ h2 {
     margin: 0;
     font-size: 40px;
 }
-
+ 
 img {
     float: left;
     margin: 10px;
@@ -63,17 +50,20 @@ img {
     float: left;
    
 }
+
 .btn {
     margin: 14px;
 }
 
  p {
 color: #ffff;
+color: black;
 margin-top:0;
 display: column;
 flex-direction: row;
-font-size: 20px;
+font-size: 18px;
 }
+ 
 
 @media screen and (max-width:425px){
     .Me {
