@@ -6,12 +6,12 @@ const Contact = () => {
     <div id="form-cont">
       <div className="personal">
         <div id="mydivheader">
-          <p>Contact Information</p>
+          <pC>Contact Information</pC>
         </div>
         <h3>Desta Mulualem</h3>
         <h3>Chicago, IL</h3>
-        <p>Phone: <span>(507)-295-2120</span></p>
-        <p>Email: <a href="mail to:destish21@yahoo.com">destish21@yahoo.com</a></p>
+        <pC>Phone: <span>(507)-295-2120</span></pC>
+        <pC>Email: <a href="mail to:destish21@yahoo.com">destish21@yahoo.com</a></pC>
       </div>
 
       <form>
