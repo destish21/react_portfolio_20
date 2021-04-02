@@ -8,7 +8,7 @@ const About = () =>{
     <div className="Me">
       <div className="row-md-4">
       <div className="col-md-12">
-        <h2> About</h2>
+        <h2> About </h2>
       </div>
      </div>
 
@@ -23,7 +23,7 @@ const About = () =>{
           ensuring the responsiveness of an applications. I have built substantial knowledge in identifying programing
           errors and troubleshooting them accordingly. I have a solid knowledge on HTML5/CSS, Bootstrap, Git,
           JavaScript, Express, Node.js,
-          jQuery, APIs, AJAX, ESS, ESS6 MySQL MongoDB.
+          jQuery, APIs, AJAX, ES5, ES6 MySQL MongoDB.
         </p>
       </div>
     </div>
