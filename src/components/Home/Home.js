@@ -15,9 +15,9 @@ const Home = () => {
     </ul> */}
 
         <div className="about-btn-wrap d-flex justify-content-center justify-content-center">
-          <a href="https://github.com/destish21" target="_blank" className="btn btn-danger">GitHub</a>
-          <a href="./assets/images/Resume3.pdf" target="_blank" className="btn btn-success"> Resume</a>
-          <a href="https://www.linkedin.com/in/desta-mulualem-6718b1203/" target="_blank"
+          <a href="https://github.com/destish21" className="btn btn-danger">GitHub</a>
+          <a href="https://docs.google.com/document/d/1kLc-bR0cb3ASljSuCPTRCOJI1B2KnBIMRpskvdM__WE/edit?usp=sharing" className="btn btn-success"> Resume</a>
+          <a href="https://www.linkedin.com/in/desta-mulualem-6718b1203/"
             className="btn btn-danger">LinkedIn</a>
         </div>
       </header>

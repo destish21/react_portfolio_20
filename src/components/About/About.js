@@ -8,7 +8,7 @@ const About = () =>{
     <div className="Me">
       <div className="row-md-4">
       <div className="col-md-12">
-        <h2> About </h2>
+        <h2> About me </h2>
       </div>
      </div>
 
@@ -54,10 +54,9 @@ const About = () =>{
           If need more contact me. <Link to="/contact">here...</Link>
         </p>
         <div className="about-btn-wrap d-flex justify-content-center justify-content-center">
-          <a href="https://github.com/destish21" target="_blank" className="btn btn-dark">GitHub</a>
-          <a href="./assets/images/Resume3.pdf" target="_blank" className="btn btn-secondary"> Resume</a>
-          <a href="https://www.linkedin.com/in/desta-mulualem-6718b1203/" target="_blank"
-            className="btn btn-dark">LinkedIn</a>
+          <a href="https://github.com/destish21" className="btn btn-dark">GitHub</a>
+          <a href="https://docs.google.com/document/d/1kLc-bR0cb3ASljSuCPTRCOJI1B2KnBIMRpskvdM__WE/edit?usp=sharing" className="btn btn-secondary"> Resume</a>
+          <a href="https://www.linkedin.com/in/desta-mulualem-6718b1203/"             className="btn btn-dark">LinkedIn</a>
         </div>
       </div>
     </div>

@@ -56,6 +56,8 @@
     margin:0 auto;
     padding: 20px;
     line-height: 1.2;
+    font-weight: 600; 
+
 }
 
  .personal a {
@@ -68,17 +70,22 @@
     color: green;
 }
 
- pC {
+ .contact {
     padding: 0;
     color: green;
     font-size: 30px;
     margin-left:10%;
 }
- #mydivheader p {
+.phone {
+    color: green;
+    font-size: 30px;
+
+}
+ #mydivheader.contact {
     font-size: 40px;
 }
 
- h1 {
+ /* h1 {
     color:black;
     font-family: serif;
     text-align: center;
@@ -89,13 +96,14 @@
     margin-top:20px;
     margin-left: 5%;
     width: 20%;
-}
+} */
 
  h2 {
     color: green;
     font-family: serif;
     padding: 10px;
     font-size:28px;
+    font-weight: 600; 
 }
 
  h3 {
@@ -103,6 +111,7 @@
     color: green;
     font-size: 30px;
     margin-left:10%;
+    font-weight: 600; 
 }
  .btn-primary {
     font-size: 20px;
@@ -130,7 +139,7 @@
     margin-right:2px;
  } 
 
-  #mydivheader p {
+  #mydivheader .contact {
     font-size: 30px;
     font-weight: 900;
 }
@@ -139,13 +148,15 @@
     font-size: 18px;
     font-weight: 800; 
 }
-  p, h2, h3 {
+   h2, h3 {
     font-size: 18px;
     font-weight: 800;
 }
+.phone {
+    font-size: 18px;
+    font-weight: 800;
 
- /* footer{
-        width: 105%; 
-    } */
+}
+
 }
 
