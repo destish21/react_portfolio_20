@@ -64,13 +64,5 @@ const data = [
         url: 'https://destish21.github.io/employee-team-profile-generator/Develop/output/team.html',
         github: 'https://github.com/destish21/employee-team-profile-generator',
     },
-    {
-        id: 9,
-        title: 'EmployeeTPGenerator',
-        image: teamhtml1,
-        url: 'https://destish21.github.io/employee-team-profile-generator/Develop/output/team.html',
-        github: 'https://github.com/destish21/employee-team-profile-generator',
-    }
-
 ]
 export default data;
