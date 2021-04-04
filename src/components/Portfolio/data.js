@@ -6,6 +6,9 @@ import ScreenshotJ from '../../assets/images/Screenshot.jpn.png'
 import teamhtml1 from '../../assets/images/teamhtml1.png'
 import weather from '../../assets/images/weather.png'
 import MyBurgerApp from '../../assets/images/MyBurger App.png'
+import fitinestracker from '../../assets/images/page1.png'
+import budget from '../../assets/images/sample.png'
+
 const data = [
     {
         id: 1,
@@ -63,6 +66,20 @@ const data = [
         image: teamhtml1,
         url: 'https://destish21.github.io/employee-team-profile-generator/Develop/output/team.html',
         github: 'https://github.com/destish21/employee-team-profile-generator',
+    },
+    {
+        id: 9,
+        title: 'workout_tracker_17',
+        image: fitinestracker,
+        url: 'https://shielded-shelf-32157.herokuapp.com/',
+        github: 'https://github.com/destish21/workout_tracker_17',
+    },
+    {
+        id: 10,
+        title: 'progressive-budget',
+        image: budget,
+        url: ' https://peaceful-sea-33231.herokuapp.com/',
+        github: 'https://github.com/destish21/progressive-budget',
     },
 ]
 export default data;
