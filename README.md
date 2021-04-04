@@ -65,7 +65,7 @@
    * ![react_portfolio_20](./public/assets/Images/co2.png)
 
    ## Usage Instructions
-
+   ## To see my portfolio first Click home then you can see each of them
    * For this app to run make sure first:-
 
    * creat repository in your github, then clone the code from my github repository,
