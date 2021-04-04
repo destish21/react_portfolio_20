@@ -3,16 +3,6 @@ import { Link } from 'react-router-dom'
 import './navbar.css'
 const Navbar = () => {
     return (
-        
-        //     {/* <Link to='/'>
-        //         Home
-        // </Link>
-        //     <Link to='/about'>
-        //         About
-        // </Link>
-        //     <Link to='/contact'>
-        //         Contact
-        // </Link> */}
 
         <div id="container">
             <nav className="navbar navbar-expand-lg navbar-light" >
@@ -41,8 +31,7 @@ const Navbar = () => {
              </div>
           </nav>      
         </div>
-
-
     )
 }
+
 export default Navbar

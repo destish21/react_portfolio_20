@@ -10,6 +10,7 @@
     width: 115%;
     border: 1px black solid;
 }
+
 @media screen and (max-width:320px){
      .navbar{
         width: 105vw;

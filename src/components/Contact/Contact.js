@@ -1,13 +1,13 @@
 import React from 'react'
 import './contact.css';
 const Contact = () => {
-  
+
   return (
 
     <div id="form-cont">
       <div className="personal">
         <div id="mydivheader">
-        <p className="contact">Contact Information</p>
+          <p className="contact">Contact Information</p>
         </div>
         <h3>Desta Mulualem</h3>
         <h3>Chicago, IL</h3>
@@ -25,7 +25,6 @@ const Contact = () => {
         <div className="form-group">
           <label htmlFor="exampleInputPassword1">Email</label>
           <input type="Email" className="form-control" id="exampleInputEmail1" placeholder="Email" />
-
         </div>
 
         <div className="form-group">
@@ -37,7 +36,6 @@ const Contact = () => {
           <label htmlFor="exampleInputPassword1"> Phone</label>
           <input type="Message" className="form-control" id="exampleInputMassege" placeholder="Phone" />
         </div>
-
         <button type="submit" className="btn btn-primary">Submit</button>
       </form>
     </div>

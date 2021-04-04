@@ -17,7 +17,6 @@ const data = [
         url: 'https://pete-scale.github.io/lyric-finder/index.html',
         github: 'https://github.com/Pete-Scale/lyric-finder',
     },
-
     {
         id: 2,
         title: 'jeopardy_trivia_game',
@@ -82,4 +81,5 @@ const data = [
         github: 'https://github.com/destish21/progressive-budget',
     },
 ]
+
 export default data;

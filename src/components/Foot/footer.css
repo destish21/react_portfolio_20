@@ -15,12 +15,13 @@
        color: white;
        font-size: 20px;
    }
+
    @media screen  and (max-width:425px){
     p {
         font-size: 18px;
         font-weight: 800;
     }
-     .footer{
+    .footer{
             width: 121%; 
         }
    }

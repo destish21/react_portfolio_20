@@ -1,7 +1,6 @@
 import React from 'react'
 import './About.css'
 import IMG1 from '../../assets/images/IMG1.jpg'
-// import Resume from '../../assets/images/Resume3.pdf'
 import { Link } from 'react-router-dom'
 const About = () => {
   return (

@@ -56,12 +56,11 @@
     margin:0 auto;
     padding: 20px;
     line-height: 1.2;
-    font-weight: 600; 
-
+    font-weight: 600;
 }
 
  .personal a {
-    font-size: 25px;
+    font-size: 21px;
 }
 
  #mydivheader {
@@ -76,10 +75,10 @@
     font-size: 30px;
     margin-left:10%;
 }
+
 .phone {
     color: green;
     font-size: 30px;
-
 }
  #mydivheader.contact {
     font-size: 40px;

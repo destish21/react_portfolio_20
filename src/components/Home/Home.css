@@ -1,6 +1,7 @@
 header {
     font-family: 'Shippori Mincho', serif;
 }
+
 .portfolio-header {
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -52,6 +53,7 @@ header {
     padding-left: 1.875rem;
     padding-right: 1.875rem;
 }
+
 a.button{
     color: white;
     padding: 20px;
@@ -63,6 +65,7 @@ a.button{
 body{
     background-color: black;
 }
+
 @media screen and (max-width:425px){
     .portfolio-header-menu li a {
         display: block;
@@ -75,6 +78,5 @@ body{
         margin-bottom: 3px;
         margin-left: 30px;
         margin-right: 30px;
-       
     }
 }

@@ -2,7 +2,7 @@ import React from 'react'
 import './Home.css'
 const Home = () => {
   return (
-
+    
     <>
       <header className="portfolio-header">
         <h1 className="portfolio-header-h1"> Desta Mulualem</h1>

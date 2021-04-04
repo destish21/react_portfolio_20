@@ -63,7 +63,6 @@ flex-direction: row;
 font-size: 18px;
 }
  
-
 @media screen and (max-width:425px){
     .Me {
         display: block;
