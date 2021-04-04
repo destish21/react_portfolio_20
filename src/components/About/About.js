@@ -3,34 +3,34 @@ import './About.css'
 import IMG1 from '../../assets/images/IMG1.jpg'
 // import Resume from '../../assets/images/Resume3.pdf'
 import { Link } from 'react-router-dom'
-const About = () =>{
-    return(
+const About = () => {
+  return (
     <div className="Me">
       <div className="row-md-4">
-      <div className="col-md-12">
-        <h2> About me </h2>
-      </div>
-     </div>
-
-    <div className="row-md-4">
-      <div className="col-md-6">
-        <img src={IMG1} width="300px" alt="Desta" />
+        <div className="col-md-12">
+          <h2> About me </h2>
+        </div>
       </div>
 
-      <div className="col-md-6">
-        <p> My name is Desta Mulualem. I am a Full Stack Developer from North Western University Coding Bootcamp. I
+      <div className="row-md-4">
+        <div className="col-md-6">
+          <img src={IMG1} width="300px" alt="Desta" />
+        </div>
+
+        <div className="col-md-6">
+          <p> My name is Desta Mulualem. I am a Full Stack Developer from North Western University Coding Bootcamp. I
           am comfortable with both front and back end programming.
           ensuring the responsiveness of an applications. I have built substantial knowledge in identifying programing
           errors and troubleshooting them accordingly. I have a solid knowledge on HTML5/CSS, Bootstrap, Git,
           JavaScript, Express, Node.js,
           jQuery, APIs, AJAX, ES5, ES6 MySQL MongoDB.
         </p>
+        </div>
       </div>
-    </div>
 
-    <div className="row-md-4">
-      <div className="col-md-12">
-        <p>Dej.Balicha Aba Nefso Senior Secondary School, Ethiopia
+      <div className="row-md-4">
+        <div className="col-md-12">
+          <p>Dej.Balicha Aba Nefso Senior Secondary School, Ethiopia
           I Taught mathematics and physics to senior secondary school students.
           I worked hard to increase students’ knowledge; thus, they could work on mathematics their potential.
           Helped building the next generation of Ethiopian innovators by implementing up-to-date interactive
@@ -52,15 +52,15 @@ const About = () =>{
           thanking me
           for the experience of a safe, on-time ride with friendly
           If need more contact me. <Link to="/contact">here...</Link>
-        </p>
-        <div className="about-btn-wrap d-flex justify-content-center justify-content-center">
-          <a href="https://github.com/destish21" className="btn btn-dark">GitHub</a>
-          <a href="https://docs.google.com/document/d/1kLc-bR0cb3ASljSuCPTRCOJI1B2KnBIMRpskvdM__WE/edit?usp=sharing" className="btn btn-secondary"> Resume</a>
-          <a href="https://www.linkedin.com/in/desta-mulualem-6718b1203/"             className="btn btn-dark">LinkedIn</a>
+          </p>
+          <div className="about-btn-wrap d-flex justify-content-center justify-content-center">
+            <a href="https://github.com/destish21" className="btn btn-dark">GitHub</a>
+            <a href="https://docs.google.com/document/d/1kLc-bR0cb3ASljSuCPTRCOJI1B2KnBIMRpskvdM__WE/edit?usp=sharing" className="btn btn-secondary"> Resume</a>
+            <a href="https://www.linkedin.com/in/desta-mulualem-6718b1203/" className="btn btn-dark">LinkedIn</a>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-    )
+  )
 }
 export default About
