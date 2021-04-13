@@ -8,6 +8,7 @@ import weather from '../../assets/images/weather.png'
 import MyBurgerApp from '../../assets/images/MyBurger App.png'
 import fitinestracker from '../../assets/images/page1.png'
 import budget from '../../assets/images/sample.png'
+import GoogleBookSearch from '../../assets/images/Googlebook.png'
 
 const data = [
     {
@@ -79,6 +80,14 @@ const data = [
         image: budget,
         url: ' https://peaceful-sea-33231.herokuapp.com/',
         github: 'https://github.com/destish21/progressive-budget',
+    },
+
+    {
+        id: 11,
+        title: 'google-books-react-search-21',
+        image: GoogleBookSearch,
+        url: 'https://google-books-react-search21.herokuapp.com/',
+        github: 'https://github.com/destish21/google-books-react-search-21',
     },
 ]
 
