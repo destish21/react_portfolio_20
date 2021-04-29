@@ -9,6 +9,8 @@ import MyBurgerApp from '../../assets/images/MyBurger App.png'
 import fitinestracker from '../../assets/images/page1.png'
 import budget from '../../assets/images/sample.png'
 import GoogleBookSearch from '../../assets/images/Googlebook.png'
+import Worldlymeals21 from '../../assets/images/Worldlymeals21.png'
+
 
 const data = [
     {
@@ -88,6 +90,13 @@ const data = [
         image: GoogleBookSearch,
         url: 'https://google-books-react-search21.herokuapp.com/',
         github: 'https://github.com/destish21/google-books-react-search-21',
+    },
+    {
+        id: 12,
+        title: 'worldly-meals',
+        image: Worldlymeals21,
+        url: 'https://aqueous-ocean-13819.herokuapp.com/',
+        github: 'https://github.com/glynismullankwok/worldly-meals',
     },
 ]
 
