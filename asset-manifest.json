@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_portfolio_20/static/css/main.cd776540.chunk.css",
-    "main.js": "/react_portfolio_20/static/js/main.5a3df59b.chunk.js",
-    "main.js.map": "/react_portfolio_20/static/js/main.5a3df59b.chunk.js.map",
+    "main.js": "/react_portfolio_20/static/js/main.bc0d3960.chunk.js",
+    "main.js.map": "/react_portfolio_20/static/js/main.bc0d3960.chunk.js.map",
     "runtime-main.js": "/react_portfolio_20/static/js/runtime-main.1c094006.js",
     "runtime-main.js.map": "/react_portfolio_20/static/js/runtime-main.1c094006.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react_portfolio_20/static/css/2.4c97ca4f.chunk.css",
@@ -21,6 +21,7 @@
     "static/media/Screenshot.5558963a.png": "/react_portfolio_20/static/media/Screenshot.5558963a.png",
     "static/media/Screenshot.jpn.93fb2c66.png": "/react_portfolio_20/static/media/Screenshot.jpn.93fb2c66.png",
     "static/media/Screenshot1.6c09ef5e.png": "/react_portfolio_20/static/media/Screenshot1.6c09ef5e.png",
+    "static/media/Worldlymeals21.4d16c3e3.png": "/react_portfolio_20/static/media/Worldlymeals21.4d16c3e3.png",
     "static/media/notetaker.a0c6842b.png": "/react_portfolio_20/static/media/notetaker.a0c6842b.png",
     "static/media/page1.82f9e1d6.png": "/react_portfolio_20/static/media/page1.82f9e1d6.png",
     "static/media/sample.ab029e88.png": "/react_portfolio_20/static/media/sample.ab029e88.png",
@@ -33,6 +34,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.78023a6a.chunk.js",
     "static/css/main.cd776540.chunk.css",
-    "static/js/main.5a3df59b.chunk.js"
+    "static/js/main.bc0d3960.chunk.js"
   ]
 }
