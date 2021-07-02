@@ -54,7 +54,7 @@ const About = () => {
           </p>
           <div className="about-btn-wrap d-flex justify-content-center justify-content-center">
             <a href="https://github.com/destish21" className="btn btn-dark">GitHub</a>
-            <a href={process.env.PUBLIC_URL+"/Resume (7).pdf"} className="btn btn-secondary"> Resume</a>
+            <a href={process.env.PUBLIC_URL+"/Resume.pdf"} className="btn btn-secondary"> Resume</a>
             <a href="https://www.linkedin.com/in/desta-mulualem-6718b1203/" className="btn btn-dark">LinkedIn</a>
           </div>
         </div>

@@ -12,7 +12,7 @@ const Contact = () => {
         <h3>Desta Mulualem</h3>
         <h3>Chicago, IL</h3>
         <p className="phone">Phone:<span>(507)-295-2120</span></p>
-        <p className="contact">Email:<a href="mail to:destish21@yahoo.com">destish21@yahoo.com</a></p>
+        <p className="contact">Email:<a href="destish21@yahoo.com">destish21@yahoo.com</a></p>
       </div>
 
       <form>
